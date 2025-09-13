@@ -41,10 +41,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Carolz14/count.svg?"  />
-</div>
 
 ###
