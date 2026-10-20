@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Student at CEFET-MG<br>✨ Front end developer<br>✨ Intermediate english</p>
+<p align="left">✨ Student at CEFET-MG<br>✨ Software developer<br>✨ Intermediate english</p>
 
 ###
 
